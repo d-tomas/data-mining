@@ -4,6 +4,10 @@ Recursos de la asignatura [Minería de Datos](http://cvnet.cpd.ua.es/Guia-Docent
 ## datasets
 Esta carpeta contiene los conjuntos de datos con los que trabajaremos en clase:
 * [Ventas de videojuegos](https://github.com/d-tomas/data-mining/blob/main/datasets/video_game_sales.csv)
+* [Bandas de Heavy Metal](https://github.com/d-tomas/data-mining/blob/main/datasets/metal_bands.csv)
+* [Películas de IMDb](https://github.com/d-tomas/data-mining/blob/main/datasets/imdb.tgz)
+* [Nombres de bebés en EE.UU.](https://github.com/d-tomas/data-mining/blob/main/datasets/babynames.tgz)
+* [Tipos de Pokemon](https://github.com/d-tomas/data-mining/blob/main/datasets/pokemon.csv)
 
 ## notebooks
 Esta carpeta contiene los *notebooks* con los que trabajaremos en la asignatura:
@@ -11,5 +15,8 @@ Esta carpeta contiene los *notebooks* con los que trabajaremos en la asignatura:
 * [PEP 8](https://github.com/d-tomas/data-mining/blob/main/notebooks/data_mining_1.2.ipynb)
 * [Funciones básicas de Pandas](https://github.com/d-tomas/data-mining/blob/main/notebooks/data_mining_2.1.ipynb)
 * [Limpieza y preparación de los datos](https://github.com/d-tomas/data-mining/blob/main/notebooks/data_mining_2.2.ipynb)
-* [Estadísticas descriptivas](https://github.com/d-tomas/data-mining/blob/main/notebooks/data_mining_2.3.ipynb)
+* [Tendencia central](https://github.com/d-tomas/data-mining/blob/main/notebooks/data_mining_2.3.ipynb)
+* [Dispersión](https://github.com/d-tomas/data-mining/blob/main/notebooks/data_mining_2.4.ipynb)
+* [Visualización](https://github.com/d-tomas/data-mining/blob/main/notebooks/data_mining_3.1.ipynb)
+* [Una historia con datos](https://github.com/d-tomas/data-mining/blob/main/notebooks/data_mining_3.2.ipynb)
 
