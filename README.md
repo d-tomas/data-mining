@@ -8,6 +8,7 @@ Esta carpeta contiene los conjuntos de datos con los que trabajaremos en clase:
 * [Películas de IMDb](https://github.com/d-tomas/data-mining/blob/main/datasets/imdb.tgz)
 * [Nombres de bebés en EE.UU.](https://github.com/d-tomas/data-mining/blob/main/datasets/babynames.tgz)
 * [Tipos de Pokemon](https://github.com/d-tomas/data-mining/blob/main/datasets/pokemon.csv)
+* [Anthropometric Survey of US Army Personnel (ANSUR II)](https://github.com/d-tomas/data-mining/blob/main/datasets/ansur_ii.csv)
 
 ## notebooks
 Esta carpeta contiene los *notebooks* con los que trabajaremos en la asignatura:
@@ -19,4 +20,5 @@ Esta carpeta contiene los *notebooks* con los que trabajaremos en la asignatura:
 * [Dispersión](https://github.com/d-tomas/data-mining/blob/main/notebooks/data_mining_2.4.ipynb)
 * [Visualización](https://github.com/d-tomas/data-mining/blob/main/notebooks/data_mining_3.1.ipynb)
 * [Una historia con datos](https://github.com/d-tomas/data-mining/blob/main/notebooks/data_mining_3.2.ipynb)
-
+* [Selección de características](https://github.com/d-tomas/data-mining/blob/main/notebooks/data_mining_4.1.ipynb)
+* [Extracción de características](https://github.com/d-tomas/data-mining/blob/main/notebooks/data_mining_4.2.ipynb)
