@@ -1,5 +1,5 @@
 # Data Mining
-Recursos de la asignatura [Minería de Datos](http://cvnet.cpd.ua.es/Guia-Docente/?wcodasi=43458&wlengua=es&scaca=2020-21) del Máster Universitario en Ciencia de Datos de la Universidad de Alicante.
+Recursos de la asignatura [Minería de Datos](http://cvnet.cpd.ua.es/Guia-Docente/?wcodasi=43458&wlengua=es&scaca=2023-24) del Máster Universitario en Ciencia de Datos de la Universidad de Alicante.
 
 ## datasets
 Esta carpeta contiene los conjuntos de datos con los que trabajaremos en clase:
